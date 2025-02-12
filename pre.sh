@@ -1,2 +1,2 @@
-$ pip install pyowm
-$ pip install PyTelegramBotAPI
+pip install pyowm
+pip install PyTelegramBotAPI
